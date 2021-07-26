@@ -1,0 +1,21 @@
+h1 {
+	font-size: 30px;
+	font-family: arial;
+	text-align: center;
+	color: blue;
+}
+
+h2 {
+	font-family: arial;
+	text-align: center;
+	color: #242424;
+}
+
+body {
+	font-size: 16px;
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+	color: #242424;
+	background-color: mintcream;
+}
+
